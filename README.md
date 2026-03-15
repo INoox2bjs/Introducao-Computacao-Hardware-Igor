@@ -1,5 +1,7 @@
 # Investigação de Hardware: ENIAC
 
+#Grupo: Igor, Arthur Santos, João Pedro Duarte
+
 ## Descrição do Artefato
 
 O ENIAC (Electronic Numerical Integrator and Computer) foi um dos primeiros computadores eletrônicos de propósito geral da história. Ele foi desenvolvido entre 1943 e 1945 por John Presper Eckert e John Mauchly na Universidade da Pensilvânia, nos Estados Unidos.
