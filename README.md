@@ -41,6 +41,8 @@ Hoje, até mesmo smartphones possuem capacidade de processamento muito superior 
 
 Computer History Museum. Disponível em: https://www.computerhistory.org
 
+https://commons.wikimedia.org/wiki/ENIAC
+
 MONTEIRO, M. A. Introdução à Organização de Computadores. 2015.
 
 TANENBAUM, Andrew S. Organização Estruturada de Computadores. 2013.
