@@ -1,71 +1,48 @@
-# Introducao-Computacao-Hardware-Igor
-Atividade Introdução a Computação
 # Investigação de Hardware: ENIAC
 
-## 1. Descrição do Artefato
+## Descrição do Artefato
 
-O ENIAC (Electronic Numerical Integrator and Computer) foi um dos primeiros computadores eletrônicos de propósito geral da história. Ele foi desenvolvido entre 1943 e 1945 pelos engenheiros John Presper Eckert e John Mauchly na Universidade da Pensilvânia, nos Estados Unidos.
+O ENIAC (Electronic Numerical Integrator and Computer) foi um dos primeiros computadores eletrônicos de propósito geral da história. Ele foi desenvolvido entre 1943 e 1945 por John Presper Eckert e John Mauchly na Universidade da Pensilvânia, nos Estados Unidos.
 
-O computador foi criado inicialmente para realizar cálculos balísticos para o exército americano durante a Segunda Guerra Mundial. O ENIAC utilizava aproximadamente 18.000 válvulas eletrônicas, ocupava uma sala inteira e consumia grande quantidade de energia.
+O computador foi criado para realizar cálculos balísticos durante a Segunda Guerra Mundial. Ele utilizava aproximadamente 18.000 válvulas eletrônicas e ocupava uma sala inteira.
 
-Apesar de suas limitações, o ENIAC marcou o início da era dos computadores eletrônicos e influenciou diretamente o desenvolvimento da computação moderna.
-
----
-
-## 2. Análise Técnica
-
-| Componente | ENIAC (1946) | Hardware Moderno (Exemplo: Processador atual) |
-|-------------|--------------|--------------------------------|
-| ULA (Unidade Lógica e Aritmética) | Realizava operações matemáticas usando circuitos eletrônicos baseados em válvulas. Conseguia executar cerca de 5.000 operações de soma por segundo. | Processadores modernos realizam bilhões de operações por segundo usando milhões de transistores integrados em chips microscópicos. |
-| Unidade de Controle | O controle do fluxo de instruções era feito manualmente através de cabos, chaves e painéis. Programar o ENIAC podia levar dias. | CPUs modernas possuem unidades de controle automáticas que interpretam instruções armazenadas na memória. |
-| Memória | Utilizava acumuladores eletrônicos para armazenamento temporário e cartões perfurados para entrada de dados. | Computadores atuais utilizam memória RAM de vários gigabytes e armazenamento em SSD ou memória flash. |
-| Periféricos | Entrada e saída feitas através de cartões perfurados e painéis de controle. | Utilizam teclado, mouse, tela touchscreen, rede, sensores e diversos dispositivos externos. |
+Mesmo sendo enorme e consumindo muita energia, o ENIAC marcou o início da era dos computadores eletrônicos.
 
 ---
 
-## 3. Imagens
+## Análise Técnica
 
-Imagem histórica do ENIAC:
-
-![ENIAC](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC.jpg/800px-ENIAC.jpg)
-
-Fonte: Computer History Museum / Wikimedia Commons
+| Componente | ENIAC (1946) | Hardware Moderno |
+|-------------|--------------|----------------|
+| ULA | Realizava operações matemáticas usando válvulas eletrônicas. Cerca de 5.000 operações por segundo. | Processadores atuais realizam bilhões de operações por segundo usando transistores microscópicos. |
+| Unidade de Controle | O controle do programa era feito manualmente por cabos e painéis. | CPUs modernas executam instruções automaticamente a partir da memória. |
+| Memória | Utilizava acumuladores eletrônicos e cartões perfurados. | Computadores atuais possuem memória RAM de vários GB e armazenamento em SSD. |
+| Periféricos | Entrada e saída através de cartões perfurados e painéis de controle. | Teclado, mouse, telas touchscreen, rede, sensores e outros dispositivos. |
 
 ---
 
-## 4. Comparação com Tecnologia Atual
+## Imagens
 
-Comparando o ENIAC com os computadores modernos, podemos observar grandes avanços em diversos aspectos:
+![ENIAC](imagens/eniac.jpg)
 
-- Redução do tamanho físico dos componentes
-- Aumento significativo da velocidade de processamento
-- Grande expansão da capacidade de memória
-- Interfaces mais intuitivas e variadas
+Fonte: Computer History Museum
+
+---
+
+## Comparação com Tecnologia Atual
+
+Comparado aos computadores modernos, o ENIAC era extremamente grande, lento e limitado em memória. No entanto, ele representou um grande avanço tecnológico e abriu caminho para o desenvolvimento da computação moderna.
 
 Hoje, até mesmo smartphones possuem capacidade de processamento muito superior ao ENIAC.
 
 ---
 
-## 5. Conclusão
+## Referências
 
-O ENIAC representa um marco histórico no desenvolvimento da computação. Apesar de ser extremamente grande e limitado comparado aos computadores atuais, ele abriu caminho para o desenvolvimento das arquiteturas modernas de computadores.
-
-Seu impacto pode ser percebido no avanço das tecnologias de processamento, armazenamento e interação entre humanos e máquinas.
-
----
-
-## 6. Referências
-
-Computer History Museum. Disponível em:
-https://www.computerhistory.org
-
-https://commons.wikimedia.org/wiki/ENIAC
+Computer History Museum. Disponível em: https://www.computerhistory.org
 
 MONTEIRO, M. A. Introdução à Organização de Computadores. 2015.
 
 TANENBAUM, Andrew S. Organização Estruturada de Computadores. 2013.
 
 IMD – Instituto Metrópole Digital. Material Didático – Arquitetura de Computadores. Natal: UFRN, 2026.
-
-Disponível em:
-https://materialpublic.imd.ufrn.br/curso/disciplina/5/14
