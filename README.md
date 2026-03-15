@@ -39,7 +39,7 @@ Hoje, até mesmo smartphones possuem capacidade de processamento muito superior 
 
 ## Referências
 
-Computer History Museum. Disponível em: https://www.computerhistory.org
+https://www.computerhistory.org
 
 https://commons.wikimedia.org/wiki/ENIAC
 
