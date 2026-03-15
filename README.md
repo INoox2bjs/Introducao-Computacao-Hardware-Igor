@@ -23,7 +23,7 @@ Mesmo sendo enorme e consumindo muita energia, o ENIAC marcou o início da era d
 
 ## Imagens
 
-![ENIAC](imagens/eniac.jpg)
+![ENIAC](imagens-Eniac/)
 
 Fonte: Computer History Museum
 
