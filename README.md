@@ -27,9 +27,9 @@ Apesar de suas limitações, o ENIAC marcou o início da era dos computadores el
 
 Imagem histórica do ENIAC:
 
-![ENIAC](https://upload.wikimedia.org/wikipedia/commons/6/6c/ENIAC.jpg)
+![ENIAC](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC.jpg/800px-ENIAC.jpg)
 
-Fonte: Computer History Museum
+Fonte: Computer History Museum / Wikimedia Commons
 
 ---
 
