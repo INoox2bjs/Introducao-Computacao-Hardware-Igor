@@ -1,6 +1,6 @@
 # Investigação de Hardware: ENIAC
 
-#Grupo: Igor, Arthur Santos, João Pedro Duarte
+#Grupo: Igor, Arthur Santos, João Pedro Duarte e João Pedro Pimentel
 
 ## Descrição do Artefato
 
